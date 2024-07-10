@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\config\SecurityConfig.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\controller\AuthController.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\controller\OrganisationController.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\controller\UserController.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\HNG2.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\model\Organisation.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\model\User.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\repository\OrganisationRepository.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\repository\UserRepository.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\service\CustomUserDetailsService.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\service\OrganisationService.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\service\UserService.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\util\JwtAuthenticationFilter.java
+C:\Users\User\Desktop\HNG 2 New\src\main\java\com\emma\HNG2\util\JwtUtil.java

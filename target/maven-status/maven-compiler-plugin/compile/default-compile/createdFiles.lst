@@ -1,0 +1,14 @@
+com\emma\HNG2\HNG2.class
+com\emma\HNG2\controller\AuthController.class
+com\emma\HNG2\model\Organisation.class
+com\emma\HNG2\config\SecurityConfig.class
+com\emma\HNG2\repository\OrganisationRepository.class
+com\emma\HNG2\repository\UserRepository.class
+com\emma\HNG2\service\UserService.class
+com\emma\HNG2\service\OrganisationService.class
+com\emma\HNG2\service\CustomUserDetailsService.class
+com\emma\HNG2\util\JwtAuthenticationFilter.class
+com\emma\HNG2\model\User.class
+com\emma\HNG2\util\JwtUtil.class
+com\emma\HNG2\controller\OrganisationController.class
+com\emma\HNG2\controller\UserController.class
